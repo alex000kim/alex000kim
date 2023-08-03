@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an ML engineer by trade and a physicist by degree. Currently, I do Sales & Solutions Engineering for [Iterative.ai](http://Iterative.ai). I’ve lived in different parts of the world and am currently based in Montreal, 🇨🇦. I speak Russian, English and un peu de français.
+I am an ML engineer by trade and a physicist by degree. I’ve lived in different parts of the world and am currently based in Montreal, 🇨🇦. I speak Russian, English and un peu de français.
 
 I am also a husband and a dad to two wonderful toddlers 👧🏻👦🏻.
 
