@@ -1,10 +1,24 @@
 # Hi there, I'm Alex Kim (alex000kim) 👋
 
 ## About Me
+____________
 
-I am an ML engineer by trade and a physicist by degree. I’ve lived in different parts of the world and am currently based in Montreal, 🇨🇦. I speak Russian, English and un peu de français.
+Hi! I’m Alex. 
 
-I am also a husband and a dad to two wonderful toddlers 👧🏻👦🏻.
+I am an ML engineer by trade and a physicist by degree. I’ve lived in different parts of the world and am currently based in Montreal, 🇨🇦. I speak English, Russian, French and un poco de español.
+
+I am also a husband and a dad of two 👧🏻👦🏻.
+
+Occasionally, I find time to:
+
+- Contribute to [open-source projects](https://github.com/alex000kim), which have been used in multiple [academic research studies](https://scholar.google.ca/scholar?q=alex000kim)
+- Provide guidance to EdTech startups on designing effective learning curriculums
+- Work with startups on evaluating and recommending enhancements to their ML & MLOps practices
+- Coordinate data science and machine learning meetups, such as [PyData Montreal](https://www.meetup.com/pydata-mtl/) and [Montreal MLOps](https://www.meetup.com/montreal-mlops-community/)
+- [Conduct online educational courses](/other/oreilly-mlops)
+- Deliver presentations at conferences and author technical blog posts
+____________
+
 
 ## Featured Repositories
 
