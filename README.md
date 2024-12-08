@@ -1,5 +1,7 @@
 # Hi there, I'm Alex Kim (alex000kim) 👋
 
+https://github-readme-stats.vercel.app/api?username=alex000kim&count_private=true&show_icons=true
+
 ## About Me
 ____________
 
