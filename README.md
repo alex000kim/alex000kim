@@ -39,4 +39,4 @@ Here are some of my top repositories, sorted by the number of stargazers:
 
 I'm always excited to explore new technologies and collaborate on interesting projects. If you'd like to connect or work together, feel free to reach out to me:
 - [alex000kim.com/about](https://alex000kim.com/about/)
-- [linkedin.com/in/alex000kim](https://www.linkedin.com/in/alex000kim/)
+
